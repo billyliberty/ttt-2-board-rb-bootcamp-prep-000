@@ -1,4 +1,4 @@
-def display_board
+def board
     puts " #{@board[0]} | #{@board[1]} | #{@board[2]} "
     puts "_____________"
     puts " #{@board[3]} | #{@board[4]} | #{@board[5]} "
